@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.shivarampractise.online
+REDIS_HOST: redis-prod.shivarampractise.online
+MYSQL_HOST: mysql-prod.shivarampractise.online
+RABBITMQ_HOST: rabbitmq-prod.shivarampractise.online
+CATALOGUE_HOST: catalogue-prod.shivarampractise.online
+USER_HOST: user-prod.shivarampractise.online
+CART_HOST: cart-prod.shivarampractise.online
+SHIPPING_HOST: shipping-prod.shivarampractise.online
+PAYMENT_HOST: payment-prod.shivarampractise.online
+DISPATCH_HOST: dispatch-prod.shivarampractise.online
