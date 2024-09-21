@@ -1,4 +1,4 @@
-MONGODB_HOST: mongodb.shivarampractise.online # submit your host
+MONGODB_HOST: mongodb.shivarampractise.online
 REDIS_HOST: redis.shivarampractise.online
 MYSQL_HOST: mysql.shivarampractise.online
 RABBITMQ_HOST: rabbitmq.shivarampractise.online
