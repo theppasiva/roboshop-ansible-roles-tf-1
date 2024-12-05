@@ -8,3 +8,5 @@ CART_HOST: cart.app-dev.shivarampractise.online
 SHIPPING_HOST: shipping.app-dev.shivarampractise.online 
 PAYMENT_HOST: payment.app-dev.shivarampractise.online 
 DISPATCH_HOST: dispatch.app-dev.shivarampractise.online
+NEXUS_URL: http://172.31.47.117:8081/repository
+group_id: "com/roboshop"
