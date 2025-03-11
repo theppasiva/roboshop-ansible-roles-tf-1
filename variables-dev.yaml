@@ -1,12 +1,12 @@
-MONGODB_HOST: mongodb-dev.shivarampractise.online  # submit your host
-REDIS_HOST: redis-dev.shivarampractise.online 
-MYSQL_HOST: mysql-dev.shivarampractise.online 
-RABBITMQ_HOST: rabbitmq-dev.shivarampractise.online 
-CATALOGUE_HOST: catalogue.app-dev.shivarampractise.online
-USER_HOST: user.app-dev.shivarampractise.online
-CART_HOST: cart.app-dev.shivarampractise.online 
-SHIPPING_HOST: shipping.app-dev.shivarampractise.online 
-PAYMENT_HOST: payment.app-dev.shivarampractise.online 
-DISPATCH_HOST: dispatch.app-dev.shivarampractise.online
+MONGODB_HOST: mongodb-dev.sivapractice.online  # submit your host
+REDIS_HOST: redis-dev.sivapractice.online 
+MYSQL_HOST: mysql-dev.sivapractice.online 
+RABBITMQ_HOST: rabbitmq-dev.sivapractice.online 
+CATALOGUE_HOST: catalogue.app-dev.sivapractice.online
+USER_HOST: user.app-dev.sivapractice.online
+CART_HOST: cart.app-dev.sivapractice.online 
+SHIPPING_HOST: shipping.app-dev.sivapractice.online 
+PAYMENT_HOST: payment.app-dev.sivapractice.online 
+DISPATCH_HOST: dispatch.app-dev.sivapractice.online
 NEXUS_URL: http://172.31.47.117:8081/repository
 group_id: "com/roboshop"
